@@ -6,3 +6,7 @@ Practice field of Golang
 
 - Mac
 `brew install go --cross-compile-all`
+
+### Samples from
+
+`http://go-tour-jp.appspot.com/`
